@@ -7,7 +7,7 @@ tags:
   - blog
 feature_image: images/f00_01.jpg
 ---
-##'¡Oh, maravilloso nuevo mundo!'
+## '¡Oh, maravilloso nuevo mundo!'
 
 No sé si los blogs han pasado ya de moda. Las redes sociales se lo han llevado todo a su paso; cada vez entro menos. En cualquier caso, hay ciertas cosas que necesitan un espacio propio.
 
