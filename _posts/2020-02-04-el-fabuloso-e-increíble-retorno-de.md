@@ -1,12 +1,14 @@
 ---
 published: true
 layout: post
-title: El fabuloso e increíble retorno de...
+title: 00. El fabuloso e increíble retorno de...
 subtitle: '¡Oh, maravilloso nuevo mundo!'
 tags:
   - blog
 feature_image: images/f00_01.jpg
 ---
+##'¡Oh, maravilloso nuevo mundo!'
+
 No sé si los blogs han pasado ya de moda. Las redes sociales se lo han llevado todo a su paso; cada vez entro menos. En cualquier caso, hay ciertas cosas que necesitan un espacio propio.
 
 Esa es la razón que me lleva a abrir otro, otra vez. Últimamente, quería escribir sobre el amor, sobre la política, sobre la ética y sobre la estética. Sobre la vida, que pasa y que me pasa. 
