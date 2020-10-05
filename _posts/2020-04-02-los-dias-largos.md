@@ -3,7 +3,7 @@ published: true
 layout: post
 Title: Los días largos
 subtitle: No estamos hablando de un día normal
-feature-img: assets/img/dias_largos.jpg
+feature-img: images/dias_largos.jpg
 tags:
   - confinamiento
 permalink: /los-dias-largos/
