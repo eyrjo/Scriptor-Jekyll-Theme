@@ -3,9 +3,8 @@ published: true
 title: 01. Ignorancia y demagogia en los tiempos del Coronavirus
 layout: post
 subtitle: O cómo la estupidez humana nos llevará a la ruina
-feature_image: assets/img/sample_corona.png
 tags:
-  - actualidad
+  - COVID-19
 permalink: /ignorancia-demagogia-coronavirus/
 ---
 ## O cómo la estupidez humana nos llevará a la ruína
