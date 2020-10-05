@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ¿Qué es esto?
-permalink: /bio/
+permalink: /bio
 feature-img: images/bio.jpg
 published: true
 ---
