@@ -39,7 +39,7 @@ layout: default
       {{content}}
     </div><!-- .post-content -->
     <div class="post-share">
-      <span>Share:</span>
+      <span>Difunde la palabra:</span>
       <a target="_blank"
         href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ page.url | absolute_url }}" rel="noopener">Twitter</a>
       <a target="_blank"
@@ -47,10 +47,10 @@ layout: default
     </div><!-- .share-post -->
     <div class="author-box">
       {% if site.data.author.image and site.data.author.image != "" %}
-      <div class="author-avatar" style="background-image: url('{{ site.data.author.image }}')"><span class="screen-reader-text">{{ site.data.author.name }}</span></div>
+      <div class="author-avatar" style="background-image: url('{{ site.data.author.image }}')"><span class="screen-reader-text">La foto de {{ site.data.author.name }}</span></div>
       {% endif %}
       <div class="author-details">
-        <h2 class="author-title">Acerca de {{ site.data.author.name }}</h2>
+        <h2 class="author-title">Sobre {{ site.data.author.name }}</h2>
         <div class="author-bio">{{ site.data.author.bio | markdownify }}</div>
         {% if site.data.author.location and site.data.author.location != "" %}
         <span class="author-location">{{ site.data.author.location}}</span>
