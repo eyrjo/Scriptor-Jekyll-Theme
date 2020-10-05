@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-Title: 02. Los días largos
+title: 02. Los días largos
 subtitle: No estamos hablando de un día normal
 feature_image: images/dias_largos.jpg
 tags:
