@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-Title: 03. ¿Vida en Marte?
+title: 03. ¿Vida en Marte?
 subtitle: El pasado queda dolorosamente cercano
 feature_image: images/vida_marte.jpg
 tags:
