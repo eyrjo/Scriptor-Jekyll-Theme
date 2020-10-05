@@ -3,7 +3,7 @@ published: true
 layout: post
 Title: ¿Vida en Marte?
 subtitle: El pasado queda dolorosamente cercano
-feature-img: images/vida_marte.jpg
+feature_image: images/vida_marte.jpg
 tags:
   - confinamiento
 permalink: /vida-en-marte/
