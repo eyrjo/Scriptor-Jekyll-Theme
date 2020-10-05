@@ -2,7 +2,7 @@
 layout: page
 title: ¿Qué es esto?
 permalink: /bio
-feature-img: images/bio.jpg
+feature_image: images/bio.jpg
 published: true
 ---
 
