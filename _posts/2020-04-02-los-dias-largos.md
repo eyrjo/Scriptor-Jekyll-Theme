@@ -15,6 +15,8 @@ Me levanto con paciencia; estoy algo cansado. Intento apreciar que no tengo pris
 
 No desayuno. Dejé de tener hambre durante los primeros días. Entonces, la ansiedad y los nervios de no saber ni cuándo volvería a verte ni cómo acabaría esto bastaban para alimentarme. Ahora ya se ha convertido en costumbre. Mi cuerpo no me pide ni más ni menos de lo que necesito, y eso, ahora mismo, se ha convertido en poco.
 
+<!--more-->
+
 La poca tranquilidad que podía tener se esfuma cuando leo las redes sociales. Todo está mal. Los contagiados, los muertos, el Gobierno, la oposición, los sanitarios, el paro, los empresarios... Convives con la crispación; no hace falta mucho para ponerse nervioso. Por no hablar de la espada de Damocles que pende sobre la cabeza de cada uno. Por no hablar de cómo estaremos cuando todo esto acabe. Que acabará.
 
 La mañana pasa, anodina, dentro de las paredes de mi habitación. Cada día, me recluyo un poco más aquí. Éste es mi castillo, donde todo está a mi gusto. Salir fuera significa irrtarse, encontrarse con situaciones con las que no me apetece lidiar. Siento que a cada momento estoy, como cantaba Pink Floyd, un poco más cómodamente adormecido; me alieno con el estado a adoptar. Hibernación.
