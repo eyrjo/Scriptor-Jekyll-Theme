@@ -1,5 +1,10 @@
 ---
-published: false
+published: true
+layout: post
+title: 04. La alegría de vivir
+tags:
+  - Nueva normalidad
+feature_image: images/vida_alegre.jpeg
 ---
 ## Reconozco que en todos los sitios cuecen habas. Y es que hasta las personas más optimistas tenemos días malos.
 
