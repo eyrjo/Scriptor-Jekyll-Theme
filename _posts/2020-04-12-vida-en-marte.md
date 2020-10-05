@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-Title: ¿Vida en Marte?
+Title: 03. ¿Vida en Marte?
 subtitle: El pasado queda dolorosamente cercano
 feature_image: images/vida_marte.jpg
 tags:
@@ -10,6 +10,7 @@ permalink: /vida-en-marte/
 color: black
 title: ¿Vida en Marte?
 ---
+## El pasado queda dolorosamente cercano
 
 No voy a sacar conclusiones precipitadas. Tengo claro que el tiempo todavía no nos deja ver las cosas con perspectiva. Ha cambiado todo, y aún no ha cambiado nada lo suficiente. Es el _Gato de Schrödinger_: vivo y muerto al mismo tiempo. Por mi parte, camino —es un decir— sin cambiar de rumbo, haciendo pequeñas correcciones cuando me da el aire por mi perfil bueno.
 
