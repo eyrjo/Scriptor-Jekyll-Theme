@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-Title: Los días largos
+Title: 02. Los días largos
 subtitle: No estamos hablando de un día normal
 feature_image: images/dias_largos.jpg
 tags:
@@ -10,6 +10,8 @@ permalink: /los-dias-largos/
 title: Los días largos
 color: black
 ---
+## No estamos hablando de un día normal
+
 Me levanto con paciencia; estoy algo cansado. Intento apreciar que no tengo prisa, y que hoy tampoco voy a ir a ningún lado. Este encierro nos está chupando la energía. Anoche no dormí bien. Soñe que me perseguía una apatía infinita y un confinamiento indefinido. 
 
 No desayuno. Dejé de tener hambre durante los primeros días. Entonces, la ansiedad y los nervios de no saber ni cuándo volvería a verte ni cómo acabaría esto bastaban para alimentarme. Ahora ya se ha convertido en costumbre. Mi cuerpo no me pide ni más ni menos de lo que necesito, y eso, ahora mismo, se ha convertido en poco.
