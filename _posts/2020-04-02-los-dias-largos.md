@@ -7,7 +7,6 @@ feature_image: images/dias_largos.jpg
 tags:
   - confinamiento
 permalink: /los-dias-largos/
-title: Los días largos
 color: black
 ---
 ## No estamos hablando de un día normal
