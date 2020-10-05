@@ -1,13 +1,15 @@
 ---
 published: true
-title: Ignorancia y demagogia en los tiempos del Coronavirus
+title: 01. Ignorancia y demagogia en los tiempos del Coronavirus
 layout: post
 subtitle: O cómo la estupidez humana nos llevará a la ruina
-feature-img: assets/img/sample_corona.png
+feature_image: assets/img/sample_corona.png
 tags:
   - actualidad
 permalink: /ignorancia-demagogia-coronavirus/
 ---
+## O cómo la estupidez humana nos llevará a la ruína
+
 **1. Estamos aburridos.** A pesar de tener la suerte de vivir en uno de los periodos más pacíficos y prósperos de la historia de la Humanidad. Muchas personas no sólo esperan que algo suceda, si no que lo desean profundamente. ¿Qué algo? Catástrofes naturales, pandemias, conflictos armados... ¿Para qué? Primero, para demostrar que ellos tenían razón. Segundo, para conseguir ser alguien. 
 
 **2. Internet iguala la información a la opinión.** Tanto vale la verdad como la mentira. Y, si me apuran, hasta la mentira vale más. Desde la gran "barra de bar" que es la red, millones de personas creen que su opinión es tan válida como la de los demás. O más. Paradójicamente, aquí estoy, escribiendo este artículo que todo el mundo podrá leer.
