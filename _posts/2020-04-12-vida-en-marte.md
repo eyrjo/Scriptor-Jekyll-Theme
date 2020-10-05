@@ -8,13 +8,14 @@ tags:
   - confinamiento
 permalink: /vida-en-marte/
 color: black
-title: ¿Vida en Marte?
 ---
 ## El pasado queda dolorosamente cercano
 
 No voy a sacar conclusiones precipitadas. Tengo claro que el tiempo todavía no nos deja ver las cosas con perspectiva. Ha cambiado todo, y aún no ha cambiado nada lo suficiente. Es el _Gato de Schrödinger_: vivo y muerto al mismo tiempo. Por mi parte, camino —es un decir— sin cambiar de rumbo, haciendo pequeñas correcciones cuando me da el aire por mi perfil bueno.
 
 [Decía ayer](https://yrjo.tk/blog/los-dias-largos/) que este encierro nos está chupando la energía. Por eso, me preocupo de dejar que el corazón no comprenda lo que la mente no cuestiona. Suena doloroso, pero es lo mejor para pasar estos días. Es como el piloto automático de la vida: seguir viviendo días cotidianos a pesar de haber perdido la cotidaneidad. 
+
+<!--more-->
 
 Sí, claro, echo de menos aquellas cosas _normales_, especialmente aquellas que hacía sin percatarme de su valor. Salir de casa, pasear, hacer deporte... hasta ir a trabajar. Pero también añoro aquellas cosas que ya atesoraba, como abrazarte, cogerte de la mano, besarte... Todo ello han pasado a ser ecos de un pasado que aún no sé cuándo va a regresar.
 
