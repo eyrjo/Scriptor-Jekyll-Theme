@@ -20,7 +20,7 @@ Pero no estoy hablando de nada nuevo. Son cosas que ya se llevan advirtiendo añ
 
 Hoy, uno de mis *amigos* ha compartido una imagen viral con contenido político, para variar. La mayoría de sus publicaciones, como las de muchos otros amigos, son últimamente de ese cariz. Pero lo dejaba pasar porque tenía otros contenidos realmente interesantes. Sin embargo, en su última publicación, compartía una imagen con un argumento tan agresivo, falaz y manipulado que ha colmado mi paciencia. El montaje en sí explotaba los miedos de una parte de la sociedad con violencia, conspiraciones, propaganda y noticias falsas.
 
-### Durante un minuto pensé en rebatirlo...###
+### Durante un minuto pensé en rebatirlo...
 
 Habría sido muy sencillo hacerlo, porque las medias tintas y mentiras que motivaban el mensaje principal eran demasiado evidentes. Pero después he pensado: ¿para qué? A él le va a dar igual, desde luego; no le voy a convencer, porque la propaganda ya le ha convencido. Además, seguro que es capaz de echármelo en cara, porque "éste es un país libre". Nunca consideré a un amigo (de Facebook o de la vida real) por su posición política, que puede ser  (y será) bien distinta a la mía. Me queda la duda de si podría haber evitado que otra persona diera credibilidad a esa imagen.
 
