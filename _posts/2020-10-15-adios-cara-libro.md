@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+tags:
+  - Despotricando a media noche
+feature_image: images/4io6v9.jpg
 ---
 ## Hoy he desinstalado Facebook en mi teléfono móvil.
 
