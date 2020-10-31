@@ -61,3 +61,46 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+  
+# prose.io config
+prose:
+  rooturl: ''
+  media: 'img'
+  ignore:
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Título del artículo"
+          placeholder: "Titulo"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtítulo"
+          placeholder: "Una descripción de tu artículo"
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Fecha"
+          help: "Introduce la fecha de publicación"
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Imagen"
+          help: "Añade una imagen a tu artículo"
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publicar"
+          help: "Marca para publicar, desmarca para ocultar."
