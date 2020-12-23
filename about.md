@@ -16,4 +16,4 @@ Pongamos que me enamoré de Portugal y en Portugal.
 Pongamos que encontré algo y a alguien que me apasionó.  
 Pongamos que el futuro se va a escribir aquí.
 
-También me puedes leer en mi blog de viajes [Fernweh](https://eyrjo.tk/fernweh)
+También me puedes leer en mi blog de viajes [Fernweh](https://yrjo.tk/fernweh)
