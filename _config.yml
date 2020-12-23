@@ -18,7 +18,7 @@ description: "Una vez yo escribía un blog"
 baseurl: "/blog"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://eyrjo.tk"
+url: "https://yrjo.tk"
 
 # Favicon
 favicon: images/favicon.png
