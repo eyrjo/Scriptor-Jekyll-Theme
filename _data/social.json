@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "RSS",
+      "icon": "fa-rss",
+      "url": "https://yrjo.tk/blog/feed.xml"
+    },
+    {
       "title": "Telegram",
       "icon": "fa-telegram",
       "url": "https://t.me/lamochiladejorge"
