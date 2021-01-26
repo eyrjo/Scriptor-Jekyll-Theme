@@ -7,7 +7,6 @@ subtitle: El camino al infierno está pavimentado de buenas intenciones
 tags:
   - Despotricando a media noche
 feature_image: images/voluntariado-joel-muniz.jpg
-permalink: /del-voluntariado/
 ---
 ## El camino al infierno está pavimentado de buenas intenciones
 
