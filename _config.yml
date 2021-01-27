@@ -105,3 +105,9 @@ prose:
           element: "checkbox"
           label: "Publicar"
           help: "Marca para publicar, desmarca para ocultar."
+          
+ defaults:
+  - scope:
+      path: ""
+    values:
+      image: images/author_hd.png
