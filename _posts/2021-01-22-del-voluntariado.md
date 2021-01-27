@@ -9,7 +9,7 @@ tags:
   - Despotricando a media noche
 feature_image: images/voluntariado-joel-muniz.jpg
 ---
-{% include image_caption.html imageurl="/images/voluntariado-joel-muniz.jpg" title="Echando una mano" caption="Foto: Joel Muniz" %}
+{% include image_caption.html imageurl="images/voluntariado-joel-muniz.jpg" title="Echando una mano" caption="Foto: Joel Muniz" %}
 
 ## El camino al infierno está pavimentado de buenas intenciones
 
