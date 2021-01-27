@@ -25,7 +25,11 @@
     </div><!-- .inner -->
   </div><!-- .site -->
   
- {% include cookieconsent.html %}
+  <div class="page__footer">
+  <footer>
+    { % include cookieconsent.html % }
+  </footer>
+</div>
 
   <!-- Scripts -->
   {% if site.google_analytics %}
