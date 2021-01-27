@@ -8,7 +8,7 @@ description: El voluntariado es una actividad que tiene el objetivo de contribui
 tags:
   - Despotricando a media noche
 ---
-{% include image_caption.html imageurl="/images/voluntariado-joel-muniz" title="Echando una mano" caption="Foto: Joel Muniz" %}
+{% include image_caption.html imageurl="/images/voluntariado-joel-muniz.jpg" title="Echando una mano" caption="Foto: Joel Muniz" %}
 
 ## El camino al infierno está pavimentado de buenas intenciones
 
