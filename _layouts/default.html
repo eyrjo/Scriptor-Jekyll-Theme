@@ -17,7 +17,7 @@
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}"/>
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="{{ site.title }}"/>
-<meta property="og:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}"/>
+<meta property="og:description" content="{% if pagecontent_description.size > 1 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}"/>
 
 <!-- Twitter integration -->
 <meta name="twitter:card" content="summary">
@@ -25,7 +25,7 @@
 <meta name="twitter:title" content="{{ page.title }}" />
 {% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />{% endif %}
 <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
-<meta name="twitter:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}" />
+<meta name="twitter:description" content="{% if pagecontent_description.size > 1 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}" />
   
 
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
