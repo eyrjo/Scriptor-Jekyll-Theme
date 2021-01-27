@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} |{% endif %} Por hablar de otra cosa - Yrjö</title>
-  {% assign pagecontent_description = post-content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
+  {% assign pagecontent_description = post-content | markdownify | replace: '.', '. ' | replace: '</h2>', '. ' | replace: '</h3>', '.' | replace: '</h4>', '. ' | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
   <meta name="description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}">
   
 
@@ -14,20 +14,18 @@
 
  <!-- Facebook integration -->
 <meta property="og:title" content="{% if page.title %}{{ page.title }} |{% endif %} Por hablar de otra cosa - Yrjö"/>
-{% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}"/>{% endif %}
+{% if page.image %}<meta property="og:image" content="{{ site.url }}/images/{{ page.image }}"/>{% endif %}
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}"/>
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="{{ site.title }}"/>
 <meta property="og:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}"/>
 <meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
-<meta property="og:image:width" content="637" />
-<meta property="og:image:height" content="403" />
 
 <!-- Twitter integration -->
 <meta name="twitter:card" content="summary">
 {% if site.twitter_url %}<meta name="twitter:site" content="{{ site.twitter_url }}">{% endif %}
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }} |{% endif %} Por hablar de otra cosa - Yrjö" />
-{% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />{% endif %}
+{% if page.image %}<meta name="twitter:image" content="{{ site.url }}/images/{{ page.image }} />{% endif %}
 <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
 <meta name="twitter:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}" />
   
