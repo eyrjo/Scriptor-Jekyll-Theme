@@ -13,7 +13,7 @@
 <link rel="apple-touch-icon" href="/img/icon-192x192.png">
 
  <!-- Facebook integration -->
-<meta property="og:title" content="{{ page.title }}"/>
+<meta property="og:title" content="{% if page.title %}{{ page.title }} |{% endif %} Por hablar de otra cosa - Yrjö"/>
 {% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}"/>{% endif %}
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}"/>
 <meta property="og:type" content="article">
@@ -26,7 +26,7 @@
 <!-- Twitter integration -->
 <meta name="twitter:card" content="summary">
 {% if site.twitter_url %}<meta name="twitter:site" content="{{ site.twitter_url }}">{% endif %}
-<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }} |{% endif %} Por hablar de otra cosa - Yrjö" />
 {% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />{% endif %}
 <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
 <meta name="twitter:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}" />
