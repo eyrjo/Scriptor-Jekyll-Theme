@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site language
-lang: es-ES
+locale: es_ES
 
 # Site title
 title: "Por hablar de otra cosa"
