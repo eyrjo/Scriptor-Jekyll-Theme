@@ -24,6 +24,8 @@
       {% include footer.html %}
     </div><!-- .inner -->
   </div><!-- .site -->
+  
+ {% include cookieconsent.html %}
 
   <!-- Scripts -->
   {% if site.google_analytics %}
@@ -32,6 +34,6 @@
   <script src="{{ '/assets/js/plugins.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 
-/* {% include cookieconsent.html %} */
+<!-- {% include cookieconsent.html %} -->
 </body>
 </html>
