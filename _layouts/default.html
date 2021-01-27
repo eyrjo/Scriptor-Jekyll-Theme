@@ -19,7 +19,7 @@
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="{{ site.title }}"/>
 <meta property="og:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}"/>
-<meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
+<meta property="og:image" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}{{ page.image.path }}}">
 
 <!-- Twitter integration -->
 <meta name="twitter:card" content="summary">
