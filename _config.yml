@@ -10,9 +10,23 @@ locale: es_ES
 
 # Site title
 title: "Por hablar de otra cosa"
+author:
+  name: Yrjö
+  twitter: 
+  image: images/author.png
+twitter:
+  username: 
+  card: summary_large_image
+social:
+  name: Yrjö
+  links:
+    - 
+    - 
+    - 
+    - https://github.com/eyrjo
 
 # A description of your site for meta tag, search engine results.
-description: "Una vez yo escribía un blog"
+description: "Hola. Has encontrado el blog de Yrjö. Deja un mensaje cuando oigas la señal."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: "/blog"
@@ -22,6 +36,7 @@ url: "https://yrjo.tk"
 
 # Favicon
 favicon: images/favicon.png
+logo: images/author_hd.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
