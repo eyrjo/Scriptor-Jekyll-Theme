@@ -26,6 +26,7 @@ social:
     - https://github.com/eyrjo
 
 # A description of your site for meta tag, search engine results.
+tagline: "El blog de Yrjö."
 description: "Hola. Has encontrado el blog de Yrjö. Deja un mensaje cuando oigas la señal."
 
 # The subpath of your site, e.g. /blog, for generating urls.
