@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.tag or page.title %}{% if page.tag %}{{ page.tag | escape }}{% else %}{{ page.title | escape }}{% endif %} | {% endif %}{% if paginator and paginator.page and paginator.total_pages > 1 and paginator.page > 1 %}Página {{ paginator.page }} de {{ paginator.total_pages }} | {% endif %}{{ site.title | escape }}{% unless page.tag or page.title %} | {{ site.description | escape }}{% endunless %}</title>
-  {% assign pagecontent_description = post-content | markdownify | replace: '.', '. ' | replace: '</h2>', '. ' | replace: '</h3>', '. ' | replace: '</h4>', '. ' | strip_include | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
+  {% assign pagecontent_description = post-content | markdownify | replace: '.', '. ' | replace: '</h2>', '. ' | replace: '</h3>', '. ' | replace: '</h4>', '. ' | strip_liquid | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
   <meta name="description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}">
   
 
@@ -13,7 +13,7 @@
 <link rel="apple-touch-icon" href="/img/icon-192x192.png">
 
  <!-- Facebook integration -->
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
+<meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}"/>
 {% if page.image %}<meta property="og:image" content="{{ site.url }}/images/{{ page.image }}"/>{% endif %}
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}"/>
 <meta property="og:type" content="article">
@@ -24,8 +24,8 @@
 <!-- Twitter integration -->
 <meta name="twitter:card" content="summary">
 {% if site.twitter_url %}<meta name="twitter:site" content="{{ site.twitter_url }}">{% endif %}
-<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-{% if page.image %}<meta name="twitter:image" content="{{ site.url }}/images/{{ page.image }}" />{% endif %}
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}" />
+{% if page.image %}<meta name="twitter:image" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}{{ page.image.path }}" />{% endif %}
 <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
 <meta name="twitter:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}" />
   
