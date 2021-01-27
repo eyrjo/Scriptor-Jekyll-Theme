@@ -4,6 +4,7 @@ published: true
 title: 06. Sobre el voluntariado
 date: '2021-01-26'
 subtitle: El camino al infierno está pavimentado de buenas intenciones
+description: El voluntariado es una actividad que tiene el objetivo de contribuir al interés general, siempre de manera altruista, organizada y no obligada.
 tags:
   - Despotricando a media noche
 image: images/voluntariado-joel-muniz.jpg
