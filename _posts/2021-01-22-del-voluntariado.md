@@ -6,7 +6,7 @@ date: '2021-01-26'
 subtitle: El camino al infierno está pavimentado de buenas intenciones
 description: El voluntariado es una actividad que tiene el objetivo de contribuir al interés general, siempre de manera altruista, organizada y no obligada.
 tags:
-  - Despotricando a media noche
+  - despotricando a media noche
 image: images/voluntariado-joel-muniz.jpg
 ---
 {% include image_caption.html imageurl="images/voluntariado-joel-muniz.jpg" title="Echando una mano" caption="Foto: Joel Muniz" %}
