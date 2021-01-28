@@ -50,6 +50,12 @@ navigation:
 # The shortname for your Disqus site to enable comments.
 disqus: 
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: images/share-PHdOC.png
+
 # Colors
 accent_color: '#2d72d9'
 
