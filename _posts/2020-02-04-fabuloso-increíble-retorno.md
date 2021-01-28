@@ -3,9 +3,12 @@ published: true
 layout: post
 title: 00. El fabuloso e increíble retorno de...
 subtitle: '¡Oh, maravilloso nuevo mundo!'
+description: No sé si los blogs han pasado ya de moda. Las redes sociales se lo han llevado todo a su paso; cada vez entro menos. En cualquier caso, hay ciertas cosas que necesitan un espacio propio.
 tags:
   - blog
 feature_image: images/f00_01.jpg
+image: images/f00_01.jpg
+
 ---
 ## '¡Oh, maravilloso nuevo mundo!'
 
