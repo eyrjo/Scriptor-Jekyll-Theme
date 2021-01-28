@@ -2,7 +2,7 @@
 published: true
 layout: post
 tags:
-  - Despotricando a media noche
+  - despotricando a media noche
 description: Haciendo tiempo después de comer, he cerrado Facebook. No quiero decir que es la última vez que entro, pero sí digo que cierro una etapa con esta red social.
 feature_image: images/4io6v9.jpg
 image: images/4io6v9.jpg
