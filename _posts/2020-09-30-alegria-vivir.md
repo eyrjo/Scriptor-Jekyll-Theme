@@ -2,9 +2,12 @@
 published: true
 layout: post
 title: 04. La alegría de vivir
+description: Reconozco que en todos los sitios cuecen habas. Y es que hasta las personas más optimistas tenemos días malos. Esta mañana, cuando me levanté, tuve mi ratito de mirar al abismo.
 tags:
   - Nueva normalidad
+image: images/vida_alegre.jpeg
 feature_image: images/vida_alegre.jpeg
+
 ---
 ## Reconozco que en todos los sitios cuecen habas. Y es que hasta las personas más optimistas tenemos días malos.
 
