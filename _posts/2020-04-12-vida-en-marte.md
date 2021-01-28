@@ -8,7 +8,6 @@ feature_image: images/vida_marte.jpg
 image: images/vida_marte.jpg
 tags:
   - confinamiento
-permalink: /vida-en-marte/
 
 ---
 ## El pasado queda dolorosamente cercano
