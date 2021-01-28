@@ -3,11 +3,12 @@ published: true
 layout: post
 title: 02. Los días largos
 subtitle: No estamos hablando de un día normal
+description: Me levanto con paciencia; estoy algo cansado. Intento apreciar que no tengo prisa, y que hoy tampoco voy a ir a ningún lado. Este encierro nos está chupando la energía.
 feature_image: images/dias_largos.jpg
+image: images/dias_largos.jpg
 tags:
   - confinamiento
-permalink: /los-dias-largos/
-color: black
+
 ---
 ## No estamos hablando de un día normal
 
