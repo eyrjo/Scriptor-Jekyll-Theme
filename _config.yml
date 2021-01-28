@@ -10,6 +10,8 @@ locale: es_ES
 
 # Site title
 title: "Por hablar de otra cosa"
+
+# Author info
 author:
   name: Yrjö
   twitter: 
@@ -35,7 +37,7 @@ baseurl: "/blog"
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://yrjo.tk"
 
-# Favicon
+# Favicon & Logo
 favicon: images/favicon.png
 logo: images/author_hd.png
 
@@ -50,6 +52,7 @@ navigation:
 # The shortname for your Disqus site to enable comments.
 disqus: 
 
+# Defaults
 defaults:
   - scope:
       path: ""
