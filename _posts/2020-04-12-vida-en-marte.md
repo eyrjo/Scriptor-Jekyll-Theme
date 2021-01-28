@@ -3,11 +3,13 @@ published: true
 layout: post
 title: 03. ¿Vida en Marte?
 subtitle: El pasado queda dolorosamente cercano
+description: No voy a sacar conclusiones precipitadas. Tengo claro que el tiempo todavía no nos deja ver las cosas con perspectiva. Ha cambiado todo, y aún no ha cambiado nada lo suficiente.
 feature_image: images/vida_marte.jpg
+image: images/vida_marte.jpg
 tags:
   - confinamiento
 permalink: /vida-en-marte/
-color: black
+
 ---
 ## El pasado queda dolorosamente cercano
 
