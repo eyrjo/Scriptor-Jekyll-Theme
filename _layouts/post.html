@@ -45,7 +45,7 @@ layout: default
       <a target="_blank"
         href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}&amp;t={{ page.title | uri_escape }}" rel="noopener">Facebook</a>
       <a target="_blank"
-        href="https://t.me/share/url?url={{ page.url | absolute_url }}&text={% if page.title %}{{ page.title }} |{% endif %}{{ site.title | escape }}" rel="noopener">Telegram</a>
+        href="https://t.me/share/url?url={{ page.url | absolute_url }}&text={% if page.title %}{{ page.title }} | {% endif %}{{ site.title | escape }}" rel="noopener">Telegram</a>
     </div><!-- .share-post -->
     <div class="author-box">
       {% if site.data.author.image and site.data.author.image != "" %}
