@@ -47,6 +47,14 @@ layout: default
       <a target="_blank"
         href="https://t.me/share/url?url={{ page.url | absolute_url }}&text={% if page.title %}{{ page.title }} | {% endif %}{{ site.title | escape }}" rel="noopener">Telegram</a>
     </div><!-- .share-post -->
+       <div class="Previous-next">
+  {% if page.previous.url %}
+    <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+  </div><!-- Navigation -->
     <div class="author-box">
       {% if site.data.author.image and site.data.author.image != "" %}
       <div class="author-avatar" style="background-image: url('{{ site.data.author.image }}')"><span class="screen-reader-text">La foto de {{ site.data.author.name }}</span></div>
@@ -67,14 +75,5 @@ layout: default
   {% if site.disqus and site.disqus != "" %}
     {% include disqus.html %}
   {% endif %}
-    
-    <div class="Previous-next">
-  {% if page.previous.url %}
-    <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-  {% endif %}
-  {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-  {% endif %}
-  </div>
 
 </main><!-- .main-content -->
