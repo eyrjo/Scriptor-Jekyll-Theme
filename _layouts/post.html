@@ -50,10 +50,10 @@ layout: default
        <div class="pagination">
          <div class="nav-links">
   {% if page.previous.url %}
-    <a class="newer-posts" href="{{page.next.url | relative_url}}">&raquo; {{page.next.title}}</a>
+    <a class="newer-posts" href="{{page.next.url | relative_url}}">&laquo; {{page.next.title}}</a>
   {% endif %}
   {% if page.next.url %}
-    <a class="older-posts" href="{{page.previous.url | relative_url. }}">{{page.previous.title}} &laquo;</a>
+    <a class="older-posts" href="{{page.previous.url | relative_url. }}">{{page.previous.title}} &raquo;</a>
   {% endif %}
        </div>
   </div><!-- Navigation -->
