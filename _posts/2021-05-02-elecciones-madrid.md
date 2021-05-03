@@ -10,6 +10,8 @@ description: >-
 tags:
   - despotricando a media noche
 image: images/Sol.jpeg
+feature-image: images/Sol.jpeg
+feature_image: images/Sol.jpeg
 ---
 ## Y la realidad de tomarte unas cañas en la Plaza Mayor (si puedes pagarlas)
 
