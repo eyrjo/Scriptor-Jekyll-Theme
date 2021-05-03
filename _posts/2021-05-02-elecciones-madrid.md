@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 07. Sobre la política madrileña
 subtitle: Y la realidad de tomarte unas cañas después del trabajo
 date: '2021-05-04'
