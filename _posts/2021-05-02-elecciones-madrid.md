@@ -9,9 +9,9 @@ description: >-
   siglo con gobiernos de corte conservador?
 tags:
   - despotricando a media noche
-image: images/Sol.jpeg
+image: images/Sol_rd.jpg
 feature-image: images/Sol.jpeg
-feature_image: images/Sol.jpeg
+feature_image: images/Sol_rd.jpg
 ---
 ## Y la realidad de tomarte unas cañas en la Plaza Mayor (si puedes pagarlas)
 
