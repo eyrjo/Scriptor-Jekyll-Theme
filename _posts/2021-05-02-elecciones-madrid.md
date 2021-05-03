@@ -1,8 +1,8 @@
 ---
 layout: post
-published: true
+published: false
 title: 07. Sobre la política madrileña
-subtitle: Y la realidad de tomarte unas cañas después del trabajo
+subtitle: Y la realidad de tomarte unas cañas en la Plaza Mayor (si puedes pagarlas)
 date: '2021-05-04'
 description: >-
   Si Madrid es una España dentro España, ¿por qué llevamos más de un cuarto de
@@ -28,4 +28,5 @@ image: images/Sol.jpeg
 5. Mientras tanto, la izquierda madrileña —populista, ecologista y socialista— es incapaz de comunidar ninguna idea más allá de su público. No supo rentabilizar la corrupción de la derecha en el Gobierno regional. Se presenta desunida y en constante batalla interna por el poder. Centra los debates en cuestiones cosméticas que apenas interesan a una minoría. Siguen pensando en la calidad de los servicios públicos como un fin, y no como un medio al que también podrían asociar *libertad* y *prosperidad* y *tranquilidad*. Los dos primeros conceptos, como resultado de asegurar unos servicios mínimos a toda la ciudadanía. El tercero, como oposición al discurso del miedo: *tranquilidad* porque puedo vivir dignamente y progresar, *tranquilidad* porque mis derechos son defendidos, *tranquilidad* porque los míos están seguros.
 
 6. Creo, de verdad, que Madrid y su ciudadanía sigue siendo abierta, tolerante, innovadora y moralmente libre. No sería Madrid de otra forma. Pero los mensajes de la derecha son muy atractivos y transgresores en este momento de crisis, y su fin, paradójciamente, apunta a restringir derechos y a beneficiar sólamente a unos pocos elegidos: los *amigotes*. Así que más le vale a la izquierda ponerse las pilas y empezar a buscar su propósito en nuestra región más allá de la oposición, o cada legislatura se quedará más atrasada.
+
 Nos va la vida en ello: Madrid debe ser de todos y de nadie para seguir siendo como hasta ahora.
