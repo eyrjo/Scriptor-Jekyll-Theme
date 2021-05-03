@@ -33,4 +33,4 @@ Hoy es la fiesta de la democracia en la Comunidad de Madrid. Sin querer analizar
 
 6. Creo, de verdad, que Madrid y su ciudadanía sigue siendo abierta, tolerante, innovadora y moralmente libre. No sería Madrid de otra forma. Pero los mensajes de la derecha son muy atractivos y transgresores en este momento de crisis. Infelizmente, el fin de dichos mensajes apunta, de manera directa, a restringir derechos y a beneficiar sólo a unos pocos elegidos: los *amigotes*. Así que más le vale a la izquierda ponerse las pilas y empezar a buscar su propósito en nuestra región más allá de la oposición. Nos va la vida en ello: Madrid debe ser de todos y de nadie para seguir siendo como hasta ahora.
 
-   Resumen: la derecha gana por goleada en Madrid.
+Resumen: la derecha gana por goleada en Madrid.
