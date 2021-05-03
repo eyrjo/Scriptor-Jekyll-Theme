@@ -9,8 +9,9 @@ description: >-
   siglo con gobiernos de corte conservador?
 tags:
   - despotricando a media noche
+image: images/Sol.jpeg
 ---
-## Y la realidad de tomarte unas cañas al salir del trabajo
+## Y la realidad de tomarte unas cañas en la Plaza Mayor (si puedes pagarlas)
 
 1. "Madrid es una España dentro de España", se le ocurrió decir a nuestra \[introduce tu adjetivo favorito aquí\] presidenta Isabel Díaz-Ayuso. Líbreme Dios de defenderla, pero siempre me pareció que esa frase estaba cargada de verdad. Es parte de nuestra ideosincrasia: *gatos viejos* hay muy pocos y la mayoría inmensa mayoría de nosotros tiene sus raíces en uno o varios puntos de la geografía española. Con sus virtudes y sus defectos, Madrid, este Madrid, tiene un pedacito de todos los españoles en su ADN.
 
@@ -18,12 +19,13 @@ tags:
    
    <!--more-->    
    
-3. Creo, de verdad, que Madrid no es una región conservadora. Ni siquiera cuando Esperanza Aguirre arrasaba con 60% de votos. Ni siquiera ahora que el binomio PP+Vox tiene visos de conseguir un resultado similar. Sin embargo, la derecha madrileña —populista, conservadora y liberal— ha sabido asociar su marca a conceptos muy atractivos: *libertad*, *prosperidad* y *miedo*. Los dos primeros conceptos funcionan muy bien con cualquier persona, a derechas o a izquierdas, a pesar de la disonancia congnitiva que producen. El tercero rompe con la clasificación política y se dirige directamente a la clase media: *miedo* a perder mi empleo, *miedo* a perder mis propiedades, *miedo* a que adoctrinen a mis hijos, *miedo* a perder mi estatus.
+3. Creo, de verdad, que Madrid no es una región conservadora. Ni siquiera cuando Esperanza Aguirre arrasaba con 60% de votos. Ni siquiera ahora que el binomio PP+Vox tiene visos de conseguir un resultado similar. Sin embargo, la derecha madrileña —populista, conservadora y liberal— ha sabido asociar su marca a conceptos muy atractivos: *libertad*, *prosperidad* y *miedo*. Los dos primeros conceptos funcionan muy bien con cualquier persona, sobre todo a derecha, a pesar de la disonancia congnitiva que producen. El tercero rompe con la clasificación política y se dirige directamente a la clase media: *miedo* a perder mi empleo, *miedo* a perder mis propiedades, *miedo* a que adoctrinen a mis hijos, *miedo* a perder mi estatus...
+   
+   ### _Pensemos en los fines, no en los medios_    
+   
+4. La mujer del César no tiene que *serlo*, tiene que *parecerlo*. Para ello, existen los *spin-doctors*: gente cuyo trabajo es hacer a una idea parecer mejor de lo que es en realidad. Creo que a todo el mundo le gusta ir de cañas. Pero la realidad de tomarte unas cañas —algo que, por cierto, también puedes hacer fuera de Madrid— es bien distinta. Para muchas personas, las cañas son excepcionales (sueldo de mierda, jornadas laborales intespestivas, cuidados familiares...). Pero aún puede ser peor: para otras, es el único refugio y forma de relajación tras un día de mierda. En resumen: que *ir de cañas* es la parábola de la derecha. Todo el mundo aspira a ello y nadie quiere que cierren los bares, con lo que orientar el sentido del voto es muy sencillo. 
 
-4. Discurso de las cañas después de trabajar. La verdad y la verdad. La libertad y la libertad. Amigotes y beneficios.
+5. Mientras tanto, la izquierda madrileña —populista, ecologista y socialista— es incapaz de comunidar ninguna idea más allá de su público. No supo rentabilizar la corrupción de la derecha en el Gobierno regional. Se presenta desunida y en constante batalla interna por el poder. Centra los debates en cuestiones cosméticas que apenas interesan a una minoría. Siguen pensando en la calidad de los servicios públicos como un fin, y no como un medio al que también podrían asociar *libertad* y *prosperidad* y *tranquilidad*. Los dos primeros conceptos, como resultado de asegurar unos servicios mínimos a toda la ciudadanía. El tercero, como oposición al discurso del miedo: *tranquilidad* porque puedo vivir dignamente y progresar, *tranquilidad* porque mis derechos son defendidos, *tranquilidad* porque los míos están seguros.
 
-5. Por otro lado, la izquierda madrileña —populista, ecologista y progresista— es incapaz de vender algo más allá de su público (y lo están perdiendo). No supo rentabilizar la corrupción de la derecha en el Gobierno regional. Se presenta desunida y en constante batalla interna por el poder. Centra los debates en cuestiones cosméticas que apenas interesan a una minoría. Siguen pensando en la calidad de los servicios públicos como un fin, y no como un medio al que también podrían asociar *libertad* y *prosperidad* y *tranquilidad*. Los dos primeros conceptos, como resultado de asegurar unos servicios mínimos a toda la ciudadanía. El tercero, como oposición al discurso del miedo: *tranquilidad* porque puedo vivir dignamente y progresar, *tranquilidad* porque mis derechos son defendidos, *tranquilidad* porque los míos están seguros.
-
-6. Creo, de verdad, que Madrid es una región progresista: abierta, tolerante, innovadora y moralmente libre. No sería Madrid de otra forma.
-
-No entro a valorar nada más, especialmente de la gestión de la crisis sanitaria y económica que tenemos entre manos. Creo que exige una reflexión más profunda que un eslogan de campaña. Pero sí haré un comentario: libertad, caña, terrazas, salir, vender, amigotes, beneficios.
+6. Creo, de verdad, que Madrid y su ciudadanía sigue siendo abierta, tolerante, innovadora y moralmente libre. No sería Madrid de otra forma. Pero los mensajes de la derecha son muy atractivos y transgresores en este momento de crisis, y su fin, paradójciamente, apunta a restringir derechos y a beneficiar sólamente a unos pocos elegidos: los *amigotes*. Así que más le vale a la izquierda ponerse las pilas y empezar a buscar su propósito en nuestra región más allá de la oposición, o cada legislatura se quedará más atrasada.
+Nos va la vida en ello: Madrid debe ser de todos y de nadie para seguir siendo como hasta ahora.
